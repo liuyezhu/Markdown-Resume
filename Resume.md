@@ -3,12 +3,12 @@
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             19924259944
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             itlyzboy@gmail.com
          </span>
          ·
          <span>
@@ -22,6 +22,7 @@
          </span>
      </div>
  </center>
+
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
